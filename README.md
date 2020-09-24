@@ -1,0 +1,2 @@
+# novelupdates.github.io
+novelupdates
