@@ -25,11 +25,15 @@ avatar: /assets/img/sample/avatar.jpg   # support internet resources
 github:
   username: nupdatap             # change to your github username
 
+twitter:
+  username: vincebin            # change to your twitter username
+
 social:
   name: nupdatap                  # it will shows as the copyright owner in Footer
   email: bravonovel@hotmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://twitter.com/vincebin      # change to your twitter homepage
     - https://github.com/nupdatap       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/NovelsupdateBravonovel-109414724216762/
