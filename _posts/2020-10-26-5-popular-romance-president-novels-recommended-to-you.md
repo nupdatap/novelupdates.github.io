@@ -32,7 +32,7 @@ grammar_cjkRuby: true
 > 
 > Khim Tan：「真的很好看。但两个主角一直错过心很疼。快让他们在一起吧。好书」
 
-**天降小妻霸道寵章節目錄：https://www.zhangyun.com/34123**
+**[天降小妻霸道寵章節目錄](https://www.zhangyun.com/34123)**
 
 --------
 
@@ -64,7 +64,7 @@ grammar_cjkRuby: true
 > 
 > 魏魏：「就是肥皂劇無誤！」
 
-**夜夜纏歡：老公，不要了章節目錄：https://www.zhangyun.com/19732**
+**[夜夜纏歡：老公，不要了章節目錄](https://www.zhangyun.com/19732)**
 
 -----
 
@@ -98,7 +98,7 @@ grammar_cjkRuby: true
 ### 家有盲夫太腹黑評價：
 > 安妮妮：「好看」
 
-**家有盲夫太腹黑章節目錄：https://www.zhangyun.com/34161**
+**[家有盲夫太腹黑章節目錄](https://www.zhangyun.com/34161)**
 
 ------
 
@@ -122,7 +122,7 @@ grammar_cjkRuby: true
 > Chris Fung：「這是我第一本網上看的小說，由開始看便吸引我繼續看的原因是劇情緊張，男女主角的關係，每天都要追著看，可惜每集短很快扣完書券，如便宜些比較好，若不是便貴過書了。」
 > 小皮球：「特別喜歡大團圓結局，女主從一而終的愛，由傷心失落到忠貞不渝，過程即使多辛酸，結局卻是令人釋懷，太太太喜歡了！」
 
-**情寄錦時章節目錄：https://www.zhangyun.com/25917**
+**[情寄錦時章節目錄](https://www.zhangyun.com/25917)**
 
 ------
 
@@ -146,7 +146,7 @@ grammar_cjkRuby: true
 > 
 > Jia Rong：「從一開始看我就已經不知道哭了幾回了，怎麼可以一開始就那麼悲傷啦！但是越看會越想繼續看下去 看到都忘了時間」
 
-**冷情墨少求復婚章節目錄：https://www.zhangyun.com/26085**
+**[冷情墨少求復婚章節目錄](https://www.zhangyun.com/26085)**
 
 ------
 
