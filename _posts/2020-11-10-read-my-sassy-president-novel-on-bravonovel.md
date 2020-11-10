@@ -1,6 +1,6 @@
 ---
 title: Read My Sassy President novel on Bravonovel
-tags: My Sassy President,Bravonovel,romance novels,romance
+tags: My Sassy President, Bravonovel, romance novels, romance
 renderNumberedHeading: true
 grammar_cjkRuby: true
 ---
