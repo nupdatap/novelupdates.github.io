@@ -70,6 +70,6 @@ A divorce?
 
 …
 
-**Read *My Sassy President* on Bravonovel Now: https://www.bravonovel.com/my-sassy-president-7351/chapter-1-divorce-56711**
+**Read *My Sassy President* on Bravonovel Now: [https://www.bravonovel.com/my-sassy-president-7351/chapter-1-divorce-56711](https://www.bravonovel.com/my-sassy-president-7351/chapter-1-divorce-56711)**
 
-or you can read it on **Bravonovel App: https://www.bravonovel.com/download-bravonovel-app**
+or you can read it on **Bravonovel App: [https://www.bravonovel.com/download-bravonovel-app](https://www.bravonovel.com/download-bravonovel-app)**
