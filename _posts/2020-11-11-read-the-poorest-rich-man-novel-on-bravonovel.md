@@ -9,11 +9,11 @@ grammar_cjkRuby: true
 
 ## [The Poorest Rich Man](https://www.bravonovel.com/the-poorest-rich-man-7361)
 
-### The Poorest Rich Man Synopsis
+### *The Poorest Rich Man* Synopsis
 
 He had gone through years of poverty and misery, and when he discovered that he was actually the heir to a jaw-dropping fortune, he knew that his live was about to change, and not in the way how people usually anticipated…
 
-### The Poorest Rich Man Trailer
+### *The Poorest Rich Man* Trailer
 
 Time: 9 p.m. Place: University, boy’s dormitory
 
@@ -92,6 +92,6 @@ It was Yang Xia!
 
 ……
 
-**Read *The Poorest Rich Man* novel on Bravonovel.com Now: https://www.bravonovel.com/the-poorest-rich-man-7361/chapter-1-phone-call-from-sister-58021**
+**Read *The Poorest Rich Man* novel on Bravonovel.com Now: [https://www.bravonovel.com/the-poorest-rich-man-7361/chapter-1-phone-call-from-sister-58021](https://www.bravonovel.com/the-poorest-rich-man-7361/chapter-1-phone-call-from-sister-58021)**
 
-also you can read it on **Bravonovel App: https://www.bravonovel.com/download-bravonovel-app**
+also you can read it on **Bravonovel App: [https://www.bravonovel.com/download-bravonovel-app](https://www.bravonovel.com/download-bravonovel-app)**
