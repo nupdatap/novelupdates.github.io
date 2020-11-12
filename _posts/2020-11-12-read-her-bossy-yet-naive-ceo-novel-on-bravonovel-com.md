@@ -6,7 +6,7 @@ grammar_cjkRuby: true
 ---
 
 
-![Her Bossy Yet Naive CEO](https://qcdn.bravonovel.com/covers/16046276902879.jpg)
+![Her Bossy Yet Naive CEO](https://qcdn.bravonovel.com/covers/16009122917451.jpg)
 
 ## [Her Bossy Yet Naive CEO](https://www.bravonovel.com/her-bossy-yet-naive-ceo-7518)
 
