@@ -1,6 +1,6 @@
 ---
 title: 5本火熱總裁豪門甜寵言情小説推薦給書荒的你們
-tags: 總裁小説, 豪門小説小説, 言情小説, 霸道總裁文
+tags: 總裁小説 豪門小説小説 言情小説 霸道總裁文
 renderNumberedHeading: true
 grammar_cjkRuby: true
 ---
