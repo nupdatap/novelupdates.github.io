@@ -6,7 +6,7 @@ grammar_cjkRuby: true
 ---
 
 
-![New Novels Weekly](https://cdn.steemitimages.com/DQmPSuP5WLaTXN7RBxNh8N2VaMRAtRH3X27VVQu7PhR2N6Y/new-novels-weekly.jpg)
+![New Novel Weekly](https://cdn.steemitimages.com/DQmPSuP5WLaTXN7RBxNh8N2VaMRAtRH3X27VVQu7PhR2N6Y/new-novels-weekly.jpg)
 
 
 [**Bravonovel**](https://www.bravonovel.com/) ([App](https://www.bravonovel.com/download-bravonovel-app)) launched a slew of good new novels this week (2020.11.30-2020.12.06), including fantasy novels, romance novels, and horror novels. Some of them are worth reading. Below we have screened a few, welcome to click to read.
